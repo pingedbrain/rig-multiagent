@@ -1,3 +1,5 @@
+> **Moved.** `rig-multiagent` now lives in [pingedbrain/rig-contrib](https://github.com/pingedbrain/rig-contrib/tree/main/crates/rig-multiagent), together with the other Rig companion crates. This repository is archived.
+
 # rig-multiagent
 
 Multi-agent patterns for [Rig](https://github.com/0xPlaygrounds/rig): a **Swarm** of
